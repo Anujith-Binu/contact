@@ -1,0 +1,15 @@
+async and await
+useEffect()=component open aavumbol work aakan ( like ngOnInit in Angular)
+    --always  add [] as a second argument in useEffect
+destructuring
+row and col
+
+react router dom       -----npm i react-router-dom
+                 .
+                 BrowserRouter - to support routing in app      (main to apply route)
+                 Routes   -  if we have more than one Route
+                 Route    - for set unique path
+Link                  
+
+params
+useParams() ==hook , used to access params from url
